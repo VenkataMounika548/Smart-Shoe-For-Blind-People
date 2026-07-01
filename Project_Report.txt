@@ -1,0 +1,7 @@
+Smart Shoe for Blind People
+
+Objective:
+Detect nearby obstacles and alert visually impaired users.
+
+Working:
+The ultrasonic sensor measures distance. If an obstacle is within 50 cm, the buzzer is activated.
